@@ -1,0 +1,1736 @@
+
+
+**********************
+			SESSION START
+		 Sat Apr 20 22:27:59 2019
+
+LOG:
+choice selected:13
+Option 1 Selected from the menu of scientific calculator
+Sum of X= 34 Y=56 is : 90
+Option 3 Selected from the menu of scientific calculator
+Multiplication of X= 324 Y=45 is : 14580
+Option 4 Selected from the menu of scientific calculator
+Division of X= 45634 Y=3 is : 15211.3
+Option 27 Selected from the menu of scientific calculator
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+*********************************
+			SESSION START
+		 Sat Apr 20 22:29:26 2019
+
+LOG:
+choice selected:13
+Option 1 Selected from the menu of scientific calculator
+Sum of X= 56 Y=67 is : 123
+Option 27 Selected from the menu of scientific calculator
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+*******************************************************
+			SESSION START
+		 Sat Apr 20 22:30:00 2019
+
+LOG:
+choice selected:13
+Option 1 Selected from the menu of scientific calculator
+Sum of X= 3464 Y=3456 is : 6920
+Option 2 Selected from the menu of scientific calculator
+Difference of X= 2.43523e+007 Y=4563 is : 2.43478e+007
+Option 27 Selected from the menu of scientific calculator
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 20 22:30:49 2019
+
+LOG:
+choice selected:13
+Option 1 Selected from the menu of scientific calculator
+Sum of X= 345423 Y=2345 is : 347768
+Option 27 Selected from the menu of scientific calculator
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 20 22:33:43 2019
+
+LOG:
+choice selected:13
+Option 27 Selected from the menu of scientific calculator
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 01:02:50 2019
+
+LOG:
+choice selected:7
+angle is 0 degree
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 01:06:07 2019
+
+LOG:
+choice selected:7
+angle is 22.4569 degree
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 01:07:17 2019
+
+LOG:
+choice selected:7
+angle is 48.4682 degree
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 01:14:25 2019
+
+LOG:
+choice selected:7
+angle is 61.2589 degree
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:07:11 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=12 k=45 r=67
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:08:14 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=23 k=56 r=78
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:09:17 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=23 k=45 r=2
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:09:38 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=23 k=56 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:10:02 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:18:11 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:23:27 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:26:02 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:27:19 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:28:18 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:28:54 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=0 r=1
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:29:08 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=1 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:32:19 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=45 k=56 r=45
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:33:04 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:34:49 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:35:03 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=50
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:35:52 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:36:06 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:36:52 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:37:42 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=45 k=67 r=34
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:37:58 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:41:20 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:42:54 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=-100 k=-100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:43:06 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=-100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:43:23 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=-100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:45:17 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=65 k=-190 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:48:17 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 02:48:36 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=0 k=0 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 09:30:44 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 09:37:31 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 11:20:25 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=10
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 11:44:34 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 11:51:39 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 11:54:23 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:02:06 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=100 k=100 and a=12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:08:11 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:08:42 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:09:22 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-10
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:22:12 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:23:28 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=100 k=100 and a=12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:23:40 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:24:23 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:24:48 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:27:47 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:39:02 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:54:16 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:54:24 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:54:37 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=100 k=100 and a=-19
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:58:24 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 12:58:35 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 13:00:33 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 13:01:08 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=100 k=100 and a=19
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 13:01:32 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=20
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 13:02:05 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=100 k=100 and a=-12
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 13:04:30 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=100 k=100 and a=-30
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 13:05:01 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=100 and a=40
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 21 13:06:27 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=-142 k=65 and a=50
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon Apr 22 08:12:25 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=20
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon Apr 22 08:13:13 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=-100 k=-100 r=200
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Fri Apr 26 11:07:33 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=100
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Fri Apr 26 11:07:57 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=-233 k=45 r=145
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Fri Apr 26 11:09:21 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=-34 k=-50 r=200
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Fri Apr 26 11:10:11 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=-34 k=65 r=200
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Fri Apr 26 11:10:40 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=20
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Fri Apr 26 16:02:05 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=789 k=6 r=9
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 19:19:17 2019
+
+LOG:
+choice selected:8
+Circle Formed with Center at: 100,-100
+choice selected:9
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 19:20:51 2019
+
+LOG:
+choice selected:9
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 19:21:21 2019
+
+LOG:
+choice selected:2
+distance is 40.025
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 19:23:00 2019
+
+LOG:
+choice selected:9
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 19:58:00 2019
+
+LOG:
+choice selected:13
+Option 1 Selected from the menu of scientific calculator
+Sum of X= 24 Y=234 is : 258
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 19:58:25 2019
+
+LOG:
+choice selected:13
+Option 1 Selected from the menu of scientific calculator
+Sum of X= 435 Y=45 is : 480
+Option 4 Selected from the menu of scientific calculator
+Division of X= 546 Y=456 is : 1.19737
+Option 5 Selected from the menu of scientific calculator
+Factorial of Number 456 is :0
+Option 5 Selected from the menu of scientific calculator
+Factorial of Number 3 is :6
+Option 27 Selected from the menu of scientific calculator
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 20:00:43 2019
+
+LOG:
+choice selected:8
+Circle Formed with Center at: 23,23
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 20:04:04 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=100 k=100 r=6
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 20:09:46 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=100 k=100 and a=6
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 20:11:48 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=100 k=100 and a=-10
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 20:13:42 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=0 k=0 and a=20
+choice selected:2
+distance is 11.1803
+choice selected:1
+point lies in 1st quadrant with values:(12,23)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sat Apr 27 20:16:31 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=345 k=45 r=90
+choice selected:13
+Option 1 Selected from the menu of scientific calculator
+Sum of X= 234 Y=345 is : 579
+Option 26 Selected from the menu of scientific calculator
+choice selected:10
+choice 1 selected from ellipse menu
+Ellipse formed at h=34 k=45 a=45 b=34
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun Apr 28 11:03:23 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon Apr 29 21:27:46 2019
+
+LOG:
+choice selected:9
+parabola plotted using values h=20 k=100 and a=8
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun May 05 20:47:09 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Sun May 05 22:52:38 2019
+
+LOG:
+choice selected:12
+polynomial of degree 1 with co-efficient 1,power 1 and constant 1 plotted
+choice selected:1
+point lies in 1st quadrant with values:(1,1)
+choice selected:1
+point lies in 1st quadrant with values:(1,1)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon May 06 01:19:26 2019
+
+LOG:
+choice selected:12
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon May 06 20:07:52 2019
+
+LOG:
+choice selected:12
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon May 06 20:09:18 2019
+
+LOG:
+choice selected:12
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon May 06 20:28:20 2019
+
+LOG:
+choice selected:12
+choice selected:12
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon May 06 20:53:16 2019
+
+LOG:
+choice selected:12
+polynomial of degree 3 with 
+co-efficient 1:1,power 1:0.1
+co-efficient 2:1,power 2:1
+co-efficient 3:1,power 3:1
+constant 1:433 PLOTTED
+choice selected:12
+polynomial of degree 3 with 
+co-efficient 1:1,power 1:2
+co-efficient 2:1,power 2:2
+co-efficient 3:1,power 3:1
+constant 1:433 PLOTTED
+choice selected:12
+polynomial of degree 3 with 
+co-efficient 1:1,power 1:2
+co-efficient 2:-1
+
+************************************************************
+			SESSION START
+		 Mon May 06 20:56:59 2019
+
+LOG:
+choice selected:12
+polynomial of degree 3 with 
+co-efficient 1:1,power 1:2
+co-efficient 2:-1,power 2:2
+co-efficient 3:1,power 3:1
+constant 1:4 PLOTTED
+choice selected:1
+point lies in 1st quadrant with values:(34,34)
+choice selected:12
+polynomial of degree 3 with 
+co-efficient 1:1,power 1:2
+co-efficient 2:-1,power 2:2
+co-efficient 3:1,power 3:1
+constant 1:100 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon May 06 21:22:59 2019
+
+LOG:
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:1,power 1:4
+co-efficient 2:-10,power 2:3
+co-efficient 3:3,power 3:2
+co-efficient 4:91,power 4:1
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon May 06 21:34:14 2019
+
+LOG:
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:1,power 1:4
+co-efficient 2:-10,power 2:3
+co-efficient 3:3,power 3:2
+co-efficient 4:91,power 4:1
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 05:03:06 2019
+
+LOG:
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:4,power 1:4
+co-efficient 2:-21,power 2:3
+co-efficient 3:1,power 3:2
+co-efficient 4:91,power 4:1
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 05:07:02 2019
+
+LOG:
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:1,power 1:2
+co-efficient 2:0,power 2:0
+co-efficient 3:0,power 3:0
+co-efficient 4:0,power 4:0
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 05:08:43 2019
+
+LOG:
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:0.1,power 1:2
+co-efficient 2:0,power 2:0
+co-efficient 3:0,power 3:0
+co-efficient 4:0,power 4:0
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 05:09:51 2019
+
+LOG:
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:1,power 1:2
+co-efficient 2:0,power 2:0
+co-efficient 3:0,power 3:0
+co-efficient 4:0,power 4:0
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 05:12:05 2019
+
+LOG:
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:4,power 1:4
+co-efficient 2:-21,power 2:3
+co-efficient 3:1,power 3:2
+co-efficient 4:91,power 4:1
+constant 1:0 PLOTTED
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:0.1,power 1:2
+co-efficient 2:0,power 2:0
+co-efficient 3:0,power 3:0
+co-efficient 4:0,power 4:0
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 05:17:10 2019
+
+LOG:
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-007,power 1:5
+co-efficient 2:0,power 2:0
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 08:10:11 2019
+
+LOG:
+choice selected:12
+polynomial of degree 4 with 
+co-efficient 1:1e-010,power 1:5
+co-efficient 2:0,power 2:0
+co-efficient 3:0,power 3:0
+co-efficient 4:0,power 4:0
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 08:15:16 2019
+
+LOG:
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-010,power 1:5
+co-efficient 2:0.01,power 2:2
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 08:20:00 2019
+
+LOG:
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-010,power 1:5
+co-efficient 2:0.01,power 2:2
+constant 1:0 PLOTTED
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-011,power 1:5
+co-efficient 2:0.001,power 2:2
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 08:30:24 2019
+
+LOG:
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-011,power 1:5
+co-efficient 2:0.001,power 2:2
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 10:57:54 2019
+
+LOG:
+choice selected:11
+hyperbola plotted using values h=345 k=-200 a=23 and b=45
+choice selected:11
+hyperbola plotted using values h=20 k=-100 a=45 and b=67
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-011,power 1:5
+co-efficient 2:0.001,power 2:2
+constant 1:0 PLOTTED
+choice selected:12
+polynomial of degree 3 with 
+co-efficient 1:23,power 1:3
+co-efficient 2:43,power 2:2
+co-efficient 3:45,power 3:1
+constant 1:34 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Tue May 07 15:52:46 2019
+
+LOG:
+choice selected:12
+polynomial of degree 3 with 
+co-efficient 1:1e-010,power 1:5
+co-efficient 2:0.001,power 2:2
+co-efficient 3:-0.1,power 3:1
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 18:37:43 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 18:44:37 2019
+
+LOG:
+choice selected:12
+polynomial of degree 3 with 
+co-efficient 1:1e-011,power 1:5
+co-efficient 2:0.001,power 2:2
+co-efficient 3:-1,power 3:1
+constant 1:0 PLOTTED
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-011,power 1:5
+co-efficient 2:1e-005,power 2:3
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 21:52:26 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 22:01:21 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 22:06:12 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 22:19:00 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-0,0)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 22:32:56 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 22:34:00 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 22:40:39 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 22:45:39 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 23:29:47 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 23:34:36 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 23:39:40 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-76.5556,73.2222)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 23:54:19 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-0,0)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Wed May 08 23:56:45 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (0,0)
+choice selected:5
+point of intersection lies at (0,-1)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:18:19 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-70.3333,-151.667)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:24:21 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-132.222,95.8889)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:26:45 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-132.222,95.8889)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:29:31 2019
+
+LOG:
+choice selected:5
+point of intersection lies at (-132.222,95.8889)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:33:29 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:33:50 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:34:36 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:36:06 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:37:04 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:37:54 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:38:36 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:39:14 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:39:43 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:40:28 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:41:19 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:45:05 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 00:45:45 2019
+
+LOG:
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 07:20:48 2019
+
+LOG:
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-011,power 1:5
+co-efficient 2:0.001,power 2:2
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 10:09:24 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=34 k=45 r=34
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(
+
+************************************************************
+			SESSION START
+		 Thu May 09 10:16:21 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=-65 k=100 r=125
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:1
+point lies in 1st quadrant with values:(0,9.40396e-038)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 10:19:43 2019
+
+LOG:
+choice selected:8
+circle plotted using vlaues h=-65 k=100 r=100
+choice selected:1
+point lies in 1st quadrant with values:(2,3)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 10:55:44 2019
+
+LOG:
+choice selected:3
+mid point lies at (100,0)
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 10:57:36 2019
+
+LOG:
+choice selected:2
+distance is 552.153
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 11:27:22 2019
+
+LOG:
+choice selected:2
+distance is 2.82843
+choice selected:8
+circle plotted using vlaues h=45 k=32 r=77
+choice selected:11
+hyperbola plotted using values h=14 k=44 a=7 and b=6
+choice selected:13
+Option 25 Selected from the menu of scientific calculator
+4^1/3: 1.5874
+Option 27 Selected from the menu of scientific calculator
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 11:33:25 2019
+
+LOG:
+choice selected:12
+polynomial of degree 1 with co-efficient -23,power 0.4 and constant 12 plotted
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-011,power 1:5
+co-efficient 2:0.001,power 2:2
+constant 1:0 PLOTTED
+choice selected:10
+choice 1 selected from ellipse menu
+Ellipse formed at h=-34 k=100 a=3 b=1
+choice selected:11
+hyperbola plotted using values h=-45 k=20 a=56 and b=12
+choice selected:9
+parabola plotted using values h=-100 k=100 and a=-23
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Thu May 09 22:00:27 2019
+
+LOG:
+choice selected:12
+polynomial of degree 2 with 
+co-efficient 1:1e-011,power 1:5
+co-efficient 2:0.001,power 2:2
+constant 1:0 PLOTTED
+choice selected:14
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

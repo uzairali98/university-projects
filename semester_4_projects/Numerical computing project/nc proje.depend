@@ -1,0 +1,370 @@
+# depslib dependency file v1.0
+1591182980 source:c:\users\uzair\desktop\nc proj\nc proje\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<queue>
+	<string>
+	<sstream>
+	"fparser.hh"
+
+1433683569 c:\users\uzair\desktop\nc proj\nc proje\fparser.hh
+	<string>
+	<vector>
+	<iostream>
+	<complex>
+
+1433683569 source:c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\fparser.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	<set>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cmath>
+	<cassert>
+	<limits>
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	"extrasrc/fp_identifier_parser.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<iomanip>
+	<sstream>
+
+1433683569 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\fpconfig.hh
+
+1433683569 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\fparser.hh
+	<string>
+	<vector>
+	<iostream>
+	<complex>
+
+1433683569 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\extrasrc\fptypes.hh
+	"../fpconfig.hh"
+	<cstring>
+	<map>
+	<vector>
+
+1433683569 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\extrasrc\fpaux.hh
+	"fptypes.hh"
+	<cmath>
+	"mpfr/MpfrFloat.hh"
+	"mpfr/GmpInt.hh"
+	<complex>
+
+1352615178 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\extrasrc\fp_identifier_parser.inc
+
+1433683603 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\extrasrc\fp_opcode_add.inc
+
+1433683596 source:c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\fpoptimizer.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	<stdint.h>
+	<utility>
+	<stdint.h>
+	<vector>
+	<utility>
+	<iostream>
+	<vector>
+	<utility>
+	<iostream>
+	<string>
+	<string>
+	<sstream>
+	<assert.h>
+	<iostream>
+	<vector>
+	<utility>
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<vector>
+	<map>
+	<algorithm>
+	<limits>
+	<list>
+	<algorithm>
+	<sstream>
+	<string>
+	<map>
+	<set>
+	<iostream>
+	<cctype>
+	<algorithm>
+	<stdio.h>
+	<algorithm>
+	<map>
+	<sstream>
+	<algorithm>
+	<assert.h>
+	<cstring>
+	<cmath>
+	<memory>
+	<algorithm>
+	<assert.h>
+	<sstream>
+	<cstring>
+	<list>
+	<algorithm>
+	<cmath>
+	<list>
+	<cassert>
+	<cmath>
+	<cassert>
+	<algorithm>
+	<assert.h>
+	<cstdio>
+
+1591182980 source:c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc project\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<queue>
+	<string>
+	<sstream>
+	"fparser.hh"
+
+1433683569 source:c:\users\uzair\desktop\nc proj\fparser.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	<set>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cmath>
+	<cassert>
+	<limits>
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	"extrasrc/fp_identifier_parser.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<iomanip>
+	<sstream>
+
+1433683569 c:\users\uzair\desktop\nc proj\fpconfig.hh
+
+1433683569 c:\users\uzair\desktop\nc proj\fparser.hh
+	<string>
+	<vector>
+	<iostream>
+	<complex>
+
+1433683569 c:\users\uzair\desktop\nc proj\extrasrc\fptypes.hh
+	"../fpconfig.hh"
+	<cstring>
+	<map>
+	<vector>
+
+1433683569 c:\users\uzair\desktop\nc proj\extrasrc\fpaux.hh
+	"fptypes.hh"
+	<cmath>
+	"mpfr/MpfrFloat.hh"
+	"mpfr/GmpInt.hh"
+	<complex>
+
+1352615178 c:\users\uzair\desktop\nc proj\extrasrc\fp_identifier_parser.inc
+
+1433683603 c:\users\uzair\desktop\nc proj\extrasrc\fp_opcode_add.inc
+
+1433683596 source:c:\users\uzair\desktop\nc proj\fpoptimizer.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	<stdint.h>
+	<utility>
+	<stdint.h>
+	<vector>
+	<utility>
+	<iostream>
+	<vector>
+	<utility>
+	<iostream>
+	<string>
+	<string>
+	<sstream>
+	<assert.h>
+	<iostream>
+	<vector>
+	<utility>
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<vector>
+	<map>
+	<algorithm>
+	<limits>
+	<list>
+	<algorithm>
+	<sstream>
+	<string>
+	<map>
+	<set>
+	<iostream>
+	<cctype>
+	<algorithm>
+	<stdio.h>
+	<algorithm>
+	<map>
+	<sstream>
+	<algorithm>
+	<assert.h>
+	<cstring>
+	<cmath>
+	<memory>
+	<algorithm>
+	<assert.h>
+	<sstream>
+	<cstring>
+	<list>
+	<algorithm>
+	<cmath>
+	<list>
+	<cassert>
+	<cmath>
+	<cassert>
+	<algorithm>
+	<assert.h>
+	<cstdio>
+
+1591182980 source:c:\users\uzair\desktop\nc proj\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<queue>
+	<string>
+	<sstream>
+	"fparser.hh"
+
+1433683569 source:c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\fparser.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	<set>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cmath>
+	<cassert>
+	<limits>
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	"extrasrc/fp_identifier_parser.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<iomanip>
+	<sstream>
+
+1433683569 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\fpconfig.hh
+
+1433683569 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\fparser.hh
+	<string>
+	<vector>
+	<iostream>
+	<complex>
+
+1433683569 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\extrasrc\fptypes.hh
+	"../fpconfig.hh"
+	<cstring>
+	<map>
+	<vector>
+
+1433683569 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\extrasrc\fpaux.hh
+	"fptypes.hh"
+	<cmath>
+	"mpfr/MpfrFloat.hh"
+	"mpfr/GmpInt.hh"
+	<complex>
+
+1352615178 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\extrasrc\fp_identifier_parser.inc
+
+1433683603 c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\extrasrc\fp_opcode_add.inc
+
+1433683596 source:c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\fpoptimizer.cc
+	"fpconfig.hh"
+	"fparser.hh"
+	"extrasrc/fptypes.hh"
+	"extrasrc/fpaux.hh"
+	<stdint.h>
+	<utility>
+	<stdint.h>
+	<vector>
+	<utility>
+	<iostream>
+	<vector>
+	<utility>
+	<iostream>
+	<string>
+	<string>
+	<sstream>
+	<assert.h>
+	<iostream>
+	<vector>
+	<utility>
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	"extrasrc/fp_opcode_add.inc"
+	<vector>
+	<map>
+	<algorithm>
+	<limits>
+	<list>
+	<algorithm>
+	<sstream>
+	<string>
+	<map>
+	<set>
+	<iostream>
+	<cctype>
+	<algorithm>
+	<stdio.h>
+	<algorithm>
+	<map>
+	<sstream>
+	<algorithm>
+	<assert.h>
+	<cstring>
+	<cmath>
+	<memory>
+	<algorithm>
+	<assert.h>
+	<sstream>
+	<cstring>
+	<list>
+	<algorithm>
+	<cmath>
+	<list>
+	<cassert>
+	<cmath>
+	<cassert>
+	<algorithm>
+	<assert.h>
+	<cstdio>
+
+1594010144 source:c:\users\uzair\google drive\university stuff\semester 4\numerical computing\nc\nc proj\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<queue>
+	<string>
+	<sstream>
+	"fparser.hh"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1572685493 source:c:\users\uzair\desktop\ds project\anagram\main.cpp
+	<iostream>
+	<fstream>
+
+1577111744 source:c:\users\uzair\google drive\university stuff\semester 3\ds\theory\ds project\anagram\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<chrono>
+	<string>
+	<time.h>
+	<windows.h>
+

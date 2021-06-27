@@ -1,0 +1,862 @@
+
+
+************************************************************
+			SESSION START
+		 Mon Dec 23 15:01:53 2019
+
+LOG:
+word entered: home
+
+4 letter words: 
+================================================
+________________________________________________
+4 letter words took 0:0:0
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:0
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:0
+
+=================================================
+total time taken 0:0:0
+
+word entered: unch
+
+4 letter words: 
+================================================
+________________________________________________
+4 letter words took 0:0:15
+
+
+3 letter words: 
+================================================
+Given word 'unc' exists in the dictionary 
+Given word 'cun' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:0
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:0
+
+=================================================
+total time taken 0:0:15
+
+word entered: game
+
+4 letter words: 
+================================================
+Given word 'game' exists in the dictionary 
+Given word 'mage' exists in the dictionary 
+Given word 'egma' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:4
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:0
+
+
+2 letter words: 
+================================================
+Given word 'ae' exists in the dictionary 
+________________________________________________
+2 letter words took 0:0:0
+
+=================================================
+total time taken 0:0:8
+
+word entered: lists
+
+5 letter words: 
+================================================
+Given word 'lists' exists in the dictionary 
+Given word 'silts' exists in the dictionary 
+Given word 'slits' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:11
+
+
+4 letter words: 
+================================================
+________________________________________________
+4 letter words took 0:0:2
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:1
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:0
+
+=================================================
+total time taken 0:0:22
+
+word entered: listen
+
+6 letter words: 
+================================================
+Given word 'listen' exists in the dictionary 
+Given word 'inlets' exists in the dictionary 
+Given word 'silent' exists in the dictionary 
+Given word 'slinte' exists in the dictionary 
+Given word 'tinsel' exists in the dictionary 
+Given word 'elints' exists in the dictionary 
+Given word 'enlist' exists in the dictionary 
+________________________________________________
+6 letter words took 0:0:54
+
+
+5 letter words: 
+================================================
+Given word 'lints' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:5
+
+
+4 letter words: 
+================================================
+Given word 'isnt' exists in the dictionary 
+Given word 'snit' exists in the dictionary 
+Given word 'tins' exists in the dictionary 
+Given word 'nits' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:5
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:9
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:8
+
+=================================================
+total time taken 0:0:106
+
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon Dec 23 15:03:14 2019
+
+LOG:
+word entered: game
+
+4 letter words: 
+================================================
+Given word 'game' exists in the dictionary 
+Given word 'mage' exists in the dictionary 
+Given word 'egma' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:6
+
+
+3 letter words: 
+================================================
+Given word 'gea' exists in the dictionary 
+Given word 'age' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:0
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:0
+
+=================================================
+total time taken 0:0:9
+
+word entered: letter
+
+6 letter words: 
+================================================
+Given word 'letter' exists in the dictionary 
+________________________________________________
+6 letter words took 0:0:8
+
+
+5 letter words: 
+================================================
+Given word 'ettle' exists in the dictionary 
+Given word 'tetel' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:2
+
+
+4 letter words: 
+================================================
+Given word 'ette' exists in the dictionary 
+Given word 'tete' exists in the dictionary 
+Given word 'teet' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:2
+
+
+3 letter words: 
+================================================
+Given word 'tet' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:3
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:5
+
+=================================================
+total time taken 0:0:45
+
+word entered: random
+
+6 letter words: 
+================================================
+Given word 'random' exists in the dictionary 
+________________________________________________
+6 letter words took 0:0:24
+
+
+5 letter words: 
+================================================
+________________________________________________
+5 letter words took 0:0:3
+
+
+4 letter words: 
+================================================
+________________________________________________
+4 letter words took 0:0:0
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:0
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:4
+
+=================================================
+total time taken 0:0:61
+
+word entered: karma
+
+5 letter words: 
+================================================
+Given word 'marka' exists in the dictionary 
+Given word 'makar' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:8
+
+
+4 letter words: 
+================================================
+________________________________________________
+4 letter words took 0:0:0
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:0
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:0
+
+=================================================
+total time taken 0:0:14
+
+word entered: goggles
+
+7 letter words: 
+================================================
+Given word 'goggles' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:25
+
+
+6 letter words: 
+================================================
+________________________________________________
+6 letter words took 0:0:8
+
+
+5 letter words: 
+================================================
+Given word 'ogles' exists in the dictionary 
+Given word 'loges' exists in the dictionary 
+Given word 'segol' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:9
+
+
+4 letter words: 
+================================================
+Given word 'gels' exists in the dictionary 
+Given word 'legs' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:2
+
+
+3 letter words: 
+================================================
+Given word 'leg' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:3
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:4
+
+=================================================
+total time taken 0:0:86
+
+			SESSION END
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+************************************************************
+			SESSION START
+		 Mon Dec 23 15:12:23 2019
+
+LOG:
+word entered: einstein
+
+8 letter words: 
+================================================
+Given word 'nineties' exists in the dictionary 
+________________________________________________
+8 letter words took 0:0:225
+
+
+7 letter words: 
+================================================
+Given word 'inesite' exists in the dictionary 
+Given word 'sienite' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:57
+
+
+6 letter words: 
+================================================
+________________________________________________
+6 letter words took 0:0:2
+
+
+5 letter words: 
+================================================
+________________________________________________
+5 letter words took 0:0:1
+
+
+4 letter words: 
+================================================
+________________________________________________
+4 letter words took 0:0:11
+
+
+3 letter words: 
+================================================
+Given word 'ese' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:11
+
+
+2 letter words: 
+================================================
+Given word 'ee' exists in the dictionary 
+________________________________________________
+2 letter words took 0:0:12
+
+=================================================
+total time taken 0:0:370
+
+word entered: einstein
+
+8 letter words: 
+================================================
+Given word 'nineties' exists in the dictionary 
+________________________________________________
+8 letter words took 0:0:230
+
+
+7 letter words: 
+================================================
+Given word 'inesite' exists in the dictionary 
+Given word 'sienite' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:51
+
+
+6 letter words: 
+================================================
+Given word 'enties' exists in the dictionary 
+________________________________________________
+6 letter words took 0:0:20
+
+
+5 letter words: 
+================================================
+Given word 'senit' exists in the dictionary 
+Given word 'senti' exists in the dictionary 
+Given word 'snite' exists in the dictionary 
+Given word 'tsine' exists in the dictionary 
+Given word 'tiens' exists in the dictionary 
+Given word 'tines' exists in the dictionary 
+Given word 'inset' exists in the dictionary 
+Given word 'neist' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:25
+
+
+4 letter words: 
+================================================
+Given word 'seit' exists in the dictionary 
+Given word 'site' exists in the dictionary 
+Given word 'ties' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:16
+
+
+3 letter words: 
+================================================
+Given word 'tis' exists in the dictionary 
+Given word 'ist' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:14
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:7
+
+=================================================
+total time taken 0:0:414
+
+word entered: einstein
+
+8 letter words: 
+================================================
+Given word 'nineties' exists in the dictionary 
+________________________________________________
+8 letter words took 0:0:226
+
+
+7 letter words: 
+================================================
+Given word 'tineine' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:20
+
+
+6 letter words: 
+================================================
+________________________________________________
+6 letter words took 0:0:3
+
+
+5 letter words: 
+================================================
+________________________________________________
+5 letter words took 0:0:0
+
+
+4 letter words: 
+================================================
+Given word 'nein' exists in the dictionary 
+Given word 'inne' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:5
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:10
+
+
+2 letter words: 
+================================================
+Given word 'in' exists in the dictionary 
+________________________________________________
+2 letter words took 0:0:11
+
+=================================================
+total time taken 0:0:318
+
+word entered: einstein
+
+8 letter words: 
+================================================
+Given word 'nineties' exists in the dictionary 
+________________________________________________
+8 letter words took 0:0:242
+
+
+7 letter words: 
+================================================
+Given word 'intines' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:63
+
+
+6 letter words: 
+================================================
+Given word 'intens' exists in the dictionary 
+Given word 'innest' exists in the dictionary 
+Given word 'sinnet' exists in the dictionary 
+Given word 'sennit' exists in the dictionary 
+Given word 'tennis' exists in the dictionary 
+________________________________________________
+6 letter words took 0:0:33
+
+
+5 letter words: 
+================================================
+________________________________________________
+5 letter words took 0:0:7
+
+
+4 letter words: 
+================================================
+Given word 'sent' exists in the dictionary 
+Given word 'tens' exists in the dictionary 
+Given word 'nets' exists in the dictionary 
+Given word 'nest' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:18
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:9
+
+
+2 letter words: 
+================================================
+Given word 'es' exists in the dictionary 
+________________________________________________
+2 letter words took 0:0:11
+
+=================================================
+total time taken 0:0:455
+
+word entered: learning
+
+8 letter words: 
+================================================
+Given word 'learning' exists in the dictionary 
+________________________________________________
+8 letter words took 0:0:664
+
+
+7 letter words: 
+================================================
+Given word 'engrail' exists in the dictionary 
+Given word 'aligner' exists in the dictionary 
+Given word 'realign' exists in the dictionary 
+Given word 'reginal' exists in the dictionary 
+Given word 'nargile' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:178
+
+
+6 letter words: 
+================================================
+Given word 'earing' exists in the dictionary 
+Given word 'argine' exists in the dictionary 
+Given word 'reagin' exists in the dictionary 
+Given word 'regian' exists in the dictionary 
+Given word 'graine' exists in the dictionary 
+________________________________________________
+6 letter words took 0:0:38
+
+
+5 letter words: 
+================================================
+Given word 'aiger' exists in the dictionary 
+Given word 'aigre' exists in the dictionary 
+Given word 'regia' exists in the dictionary 
+Given word 'geira' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:25
+
+
+4 letter words: 
+================================================
+Given word 'ragi' exists in the dictionary 
+Given word 'gair' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:22
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:15
+
+
+2 letter words: 
+================================================
+Given word 'ia' exists in the dictionary 
+________________________________________________
+2 letter words took 0:0:13
+
+=================================================
+total time taken 0:1:1025
+
+word entered: eclair
+
+6 letter words: 
+================================================
+Given word 'eclair' exists in the dictionary 
+Given word 'erical' exists in the dictionary 
+Given word 'lacier' exists in the dictionary 
+Given word 'acerli' exists in the dictionary 
+________________________________________________
+6 letter words took 0:0:26
+
+
+5 letter words: 
+================================================
+Given word 'ceral' exists in the dictionary 
+Given word 'clear' exists in the dictionary 
+Given word 'carle' exists in the dictionary 
+Given word 'lacer' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:6
+
+
+4 letter words: 
+================================================
+Given word 'lace' exists in the dictionary 
+Given word 'acle' exists in the dictionary 
+Given word 'alce' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:3
+
+
+3 letter words: 
+================================================
+________________________________________________
+3 letter words took 0:0:3
+
+
+2 letter words: 
+================================================
+Given word 'al' exists in the dictionary 
+________________________________________________
+2 letter words took 0:0:7
+
+=================================================
+total time taken 0:0:80
+
+word entered: eclair
+
+6 letter words: 
+================================================
+Given word 'eclair' exists in the dictionary 
+Given word 'erical' exists in the dictionary 
+Given word 'lacier' exists in the dictionary 
+Given word 'acerli' exists in the dictionary 
+________________________________________________
+6 letter words took 0:0:23
+
+
+5 letter words: 
+================================================
+Given word 'elaic' exists in the dictionary 
+Given word 'ileac' exists in the dictionary 
+________________________________________________
+5 letter words took 0:0:6
+
+
+4 letter words: 
+================================================
+Given word 'lice' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:2
+
+
+3 letter words: 
+================================================
+Given word 'ice' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:11
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:5
+
+=================================================
+total time taken 0:0:78
+
+word entered: concept
+
+7 letter words: 
+================================================
+Given word 'concept' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:113
+
+
+6 letter words: 
+================================================
+________________________________________________
+6 letter words took 0:0:27
+
+
+5 letter words: 
+================================================
+________________________________________________
+5 letter words took 0:0:3
+
+
+4 letter words: 
+================================================
+________________________________________________
+4 letter words took 0:0:1
+
+
+3 letter words: 
+================================================
+Given word 'ctn' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:4
+
+
+2 letter words: 
+================================================
+________________________________________________
+2 letter words took 0:0:2
+
+=================================================
+total time taken 0:0:188
+
+word entered: concept
+
+7 letter words: 
+================================================
+Given word 'concept' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:107
+
+
+6 letter words: 
+================================================
+________________________________________________
+6 letter words took 0:0:16
+
+
+5 letter words: 
+================================================
+________________________________________________
+5 letter words took 0:0:10
+
+
+4 letter words: 
+================================================
+Given word 'peto' exists in the dictionary 
+Given word 'poet' exists in the dictionary 
+Given word 'pote' exists in the dictionary 
+Given word 'tope' exists in the dictionary 
+________________________________________________
+4 letter words took 0:0:10
+
+
+3 letter words: 
+================================================
+Given word 'ote' exists in the dictionary 
+Given word 'toe' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:5
+
+
+2 letter words: 
+================================================
+Given word 'ot' exists in the dictionary 
+Given word 'to' exists in the dictionary 
+________________________________________________
+2 letter words took 0:0:7
+
+=================================================
+total time taken 0:0:200
+
+word entered: concept
+
+7 letter words: 
+================================================
+Given word 'concept' exists in the dictionary 
+________________________________________________
+7 letter words took 0:0:120
+
+
+6 letter words: 
+================================================
+________________________________________________
+6 letter words took 0:0:33
+
+
+5 letter words: 
+================================================
+________________________________________________
+5 letter words took 0:0:2
+
+
+4 letter words: 
+================================================
+________________________________________________
+4 letter words took 0:0:2
+
+
+3 letter words: 
+================================================
+Given word 'opt' exists in the dictionary 
+Given word 'pot' exists in the dictionary 
+________________________________________________
+3 letter words took 0:0:4
+
+
+2 letter words: 
+================================================
+Given word 'ot' exists in the dictionary 
+Given word 'to' exists in the dictionary 
+________________________________________________
+2 letter words took 0:0:3
+
+=================================================
+total time taken 0:0:198

@@ -1,0 +1,19 @@
+﻿  HELPform.cpp
+  LCSform1.cpp
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\LCSform1.h(273,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mainform.cpp
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\LCSform1.h(273,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\SCSform.h(259,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\EDform.h(278,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\LISform.h(255,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\MCMform.h(268,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\PRATITIONPROBLEMform.h(271,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\COINCHANGEform.h(284,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\WORDBREAKform.h(215,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\WORDBREAKform.h(240,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\WORDBREAKform.h(227,7): warning C4101: 'answer': unreferenced local variable
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\WORDBREAKform.h(270,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\mainform.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  COINCHANGEform.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  algo.vcxproj -> C:\Users\uzair\Google Drive\university stuff\semester 5\ALGO\PROJECT\algo\Debug\algo.exe

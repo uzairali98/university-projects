@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_FaPLkFpYEeuvhtbkqLPHbw" name="deployment diagram">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_FjOIcFpYEeuvhtbkqLPHbw">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Device" xmi:id="_Z8omsFpaEeuvhtbkqLPHbw" name="player 1 PC">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_ejbLoFpaEeuvhtbkqLPHbw" name="Unity 3D"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Device" xmi:id="_lQvYMFpaEeuvhtbkqLPHbw" name="player 2 PC">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_pny4AFpaEeuvhtbkqLPHbw" name="Unity 3D"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Device" xmi:id="_HBrjIFpbEeuvhtbkqLPHbw" name="PHOTON server"/>
+  <packagedElement xmi:type="uml:Device" xmi:id="_Rh6nsFpbEeuvhtbkqLPHbw" name="PHP server">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_XnbNYFpbEeuvhtbkqLPHbw" name="MAMP"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:CommunicationPath" xmi:id="_dxPrUFpbEeuvhtbkqLPHbw" name="WIFI" memberEnd="_dxPrU1pbEeuvhtbkqLPHbw _dxQSYFpbEeuvhtbkqLPHbw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_dxPrUVpbEeuvhtbkqLPHbw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_dxPrUlpbEeuvhtbkqLPHbw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_dxPrU1pbEeuvhtbkqLPHbw" name="photon server" type="_HBrjIFpbEeuvhtbkqLPHbw" association="_dxPrUFpbEeuvhtbkqLPHbw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_dxQSYFpbEeuvhtbkqLPHbw" name="player 2 pc" type="_lQvYMFpaEeuvhtbkqLPHbw" association="_dxPrUFpbEeuvhtbkqLPHbw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:CommunicationPath" xmi:id="_erJu0FpbEeuvhtbkqLPHbw" name="WIFI" memberEnd="_erKV4lpbEeuvhtbkqLPHbw _erKV41pbEeuvhtbkqLPHbw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_erKV4FpbEeuvhtbkqLPHbw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_erKV4VpbEeuvhtbkqLPHbw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_erKV4lpbEeuvhtbkqLPHbw" name="photon server" type="_HBrjIFpbEeuvhtbkqLPHbw" association="_erJu0FpbEeuvhtbkqLPHbw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_erKV41pbEeuvhtbkqLPHbw" name="player 1 pc" type="_Z8omsFpaEeuvhtbkqLPHbw" association="_erJu0FpbEeuvhtbkqLPHbw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:CommunicationPath" xmi:id="_frcHIFpbEeuvhtbkqLPHbw" name="WIFI" memberEnd="_frcuMFpbEeuvhtbkqLPHbw _frcuMVpbEeuvhtbkqLPHbw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_frcHIVpbEeuvhtbkqLPHbw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_frcHIlpbEeuvhtbkqLPHbw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_frcuMFpbEeuvhtbkqLPHbw" name="php server" type="_Rh6nsFpbEeuvhtbkqLPHbw" association="_frcHIFpbEeuvhtbkqLPHbw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_frcuMVpbEeuvhtbkqLPHbw" name="player 2 pc" type="_lQvYMFpaEeuvhtbkqLPHbw" association="_frcHIFpbEeuvhtbkqLPHbw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:CommunicationPath" xmi:id="_gjtL4FpbEeuvhtbkqLPHbw" name="WIFI" memberEnd="_gjty8lpbEeuvhtbkqLPHbw _gjty81pbEeuvhtbkqLPHbw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_gjty8FpbEeuvhtbkqLPHbw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_gjty8VpbEeuvhtbkqLPHbw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_gjty8lpbEeuvhtbkqLPHbw" name="php server" type="_Rh6nsFpbEeuvhtbkqLPHbw" association="_gjtL4FpbEeuvhtbkqLPHbw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_gjty81pbEeuvhtbkqLPHbw" name="player 1 pc" type="_Z8omsFpaEeuvhtbkqLPHbw" association="_gjtL4FpbEeuvhtbkqLPHbw"/>
+  </packagedElement>
+</uml:Model>

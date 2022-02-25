@@ -1,0 +1,56 @@
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\IPT_project.exe.config
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\IPT_project.exe
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\IPT_project.pdb
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\MySql.Data.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\Google.Protobuf.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\ZstdNet.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\BouncyCastle.Crypto.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\Ubiety.Dns.Core.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\System.Buffers.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\K4os.Compression.LZ4.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\K4os.Hash.xxHash.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\MySql.Data.xml
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.csprojAssemblyReference.cache
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.exe.config
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.Form1.resources
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.Properties.Resources.resources
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.csproj.GenerateResource.cache
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.csproj.CoreCompileInputs.cache
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.csproj.CopyComplete
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.exe
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.pdb
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.playerform.resources
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\Interop.WMPLib.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\bin\Debug\AxInterop.WMPLib.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\Interop.WMPLib.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\AxInterop.WMPLib.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\IPT_project\obj\Debug\IPT_project.csproj.ResolveComReference.cache
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\IPT_project.exe.config
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\IPT_project.exe
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\IPT_project.pdb
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\MySql.Data.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\Google.Protobuf.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\ZstdNet.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\System.Buffers.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\MySql.Data.xml
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\Interop.WMPLib.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.csprojAssemblyReference.cache
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.exe.config
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\Interop.WMPLib.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.csproj.ResolveComReference.cache
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.Form1.resources
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.playerform.resources
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.Properties.Resources.resources
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.csproj.GenerateResource.cache
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.csproj.CoreCompileInputs.cache
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.csproj.CopyComplete
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.exe
+C:\Users\uzair\Desktop\IPT_project\IPT_project\obj\Debug\IPT_project.pdb

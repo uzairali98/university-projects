@@ -1,0 +1,164 @@
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\WebPlayer.dll.config
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\WebPlayer.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\WebPlayer.pdb
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Antlr3.Runtime.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\AspNet.ScriptManager.bootstrap.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\AspNet.ScriptManager.jQuery.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Microsoft.ScriptManager.WebForms.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Microsoft.Web.Infrastructure.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Newtonsoft.Json.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\System.Web.Optimization.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\WebGrease.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\System.Web.Optimization.xml
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Newtonsoft.Json.xml
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Antlr3.Runtime.pdb
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\obj\Debug\WebPlayer.csprojAssemblyReference.cache
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\obj\Debug\WebPlayer.csproj.CoreCompileInputs.cache
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\obj\Debug\WebPlayer.csproj.CopyComplete
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\obj\Debug\WebPlayer.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\obj\Debug\WebPlayer.pdb
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\csc.exe
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\csc.exe.config
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\csc.rsp
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\csi.exe
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\csi.exe.config
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\csi.rsp
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\desktop.ini
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.Managed.Core.targets
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.AppContext.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Collections.Immutable.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Console.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.IO.Compression.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.IO.FileSystem.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.IO.Pipes.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Security.AccessControl.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Security.Claims.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Security.Principal.Windows.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.ValueTuple.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Xml.XmlDocument.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Xml.XPath.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\vbc.exe
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\vbc.exe.config
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\vbc.rsp
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\VBCSCompiler.exe
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\roslyn\VBCSCompiler.exe.config
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\MySql.Data.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Google.Protobuf.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\ZstdNet.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\K4os.Compression.LZ4.Streams.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\BouncyCastle.Crypto.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\Ubiety.Dns.Core.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\System.Buffers.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\K4os.Compression.LZ4.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\K4os.Hash.xxHash.dll
+G:\My Drive\university stuff\semester 7\IPT\Project\IPT_project\WebPlayer\bin\MySql.Data.xml
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\WebPlayer.dll.config
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\WebPlayer.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\WebPlayer.pdb
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\csc.exe
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\csc.exe.config
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\csc.rsp
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\csi.exe
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\csi.exe.config
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\csi.rsp
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\desktop.ini
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.AppContext.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Console.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Security.Claims.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\vbc.exe
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\vbc.exe.config
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\vbc.rsp
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Antlr3.Runtime.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\MySql.Data.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Newtonsoft.Json.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\System.Web.Optimization.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\WebGrease.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Google.Protobuf.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\ZstdNet.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\BouncyCastle.Crypto.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Ubiety.Dns.Core.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\System.Buffers.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\K4os.Compression.LZ4.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\K4os.Hash.xxHash.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\MySql.Data.xml
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\System.Web.Optimization.xml
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Newtonsoft.Json.xml
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Antlr3.Runtime.pdb
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\obj\Debug\WebPlayer.csprojAssemblyReference.cache
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\obj\Debug\WebPlayer.csproj.CoreCompileInputs.cache
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\obj\Debug\WebPlayer.csproj.CopyComplete
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\obj\Debug\WebPlayer.dll
+C:\Users\uzair\Desktop\IPT_project\WebPlayer\obj\Debug\WebPlayer.pdb
